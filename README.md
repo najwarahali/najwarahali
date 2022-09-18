@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web developer and designer
 --------------------------
 
-1 sur 1 820 I'm addictif to a lifelong learning that’s why I choose to read something new everyday related to my domain . I could say that it is a personal commitment for self-improvement. I will try to practice a daily continuous learning. This how I can achieve my dream. So, I have been learning coding for 2 years .Then, I started my career as UI-UX graphic designer. Currently, I learn Front End development . Next , I will learn Back End development.
+I'm addictif to a lifelong learning that’s why I choose to read something new everyday related to my domain . I could say that it is a personal commitment for self-improvement. I will try to practice a daily continuous learning. This how I can achieve my dream. So, I have been learning coding for 2 years .Then, I started my career as UI-UX graphic designer. Currently, I learn Front End development . Next , I will learn Back End development.
 
 * 🌍  I'm based in Morocco
 * 🖥️  See my portfolio at [Myportfolio as a Designer](http://www.behance.net/nicety__design)
